@@ -26,7 +26,7 @@ As listed above, tsh2.0 supports directory traversal, removal, and display. Addi
 The 377 built-in command is a pretty neat password reversing challenge. The password encryption is an xor with a key of 3. I thought it would be a good idea to implement this to help myself understand how to iterate over strings and convert among different data types.
 
 ### Documentation
-The comments throughout the main.rs file describe my steps to implementing each part of tsh2.0. The video/presentation/demonstration should further enforce the functionality of tsh2.0 as well as how I implemented it.
+The comments throughout the main.rs file describe my steps to implementing each part of tsh2.0. The video/presentation/demonstration should further detail the functionality of tsh2.0 as well as how I implemented it.
 
 ### Running TSH2.0
-After cloning the repository onto your local machine, navigate to the main directory. Use the command cargo run in the command line. This should retrive the required dependencies and run the shell. That's it!
+After cloning the repository onto your local machine, navigate to the main directory. Use the command **cargo run** in the command line. This should retrive the required dependencies and run the shell. That's it!
