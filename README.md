@@ -16,7 +16,7 @@ echo <argument>: Output the argument string.
 help: Display this help table.   
 eval <expression>: Evaluate arithmetic expression.  
 rm <file>: Remove the given file.  
-rm -r <dir>: Remove the directory dir.  
+rm -r <director>: Remove the directory dir.  
 pwd: Print the working directory.  
 377 <password>: Secret Command... Enter the correct password to access.   
 cd <directory>: Change the working directory.  
