@@ -1,6 +1,6 @@
 # TSH
 ### Presentation Link
-Here is a link: [Presentation] (https://drive.google.com/file/d/1yPnnKoZpzhcvjQ-Of8OE45mPSr4U4kCC/view)
+Here is a link: https://drive.google.com/file/d/1yPnnKoZpzhcvjQ-Of8OE45mPSr4U4kCC/view
 ### Objective
 Implement a shell in Rust.
 ### Implementation
