@@ -12,14 +12,14 @@ In addition to the standard commands, I designed my own built in commands. I als
 
 New functionality and custom implementations:  
 quit: Exit the shell.  
-echo <argument>: Output the argument string.  
+echo (argument): Output the argument string.  
 help: Display this help table.   
-eval <expression>: Evaluate arithmetic expression.  
-rm <file>: Remove the given file.  
-rm -r <director>: Remove the directory dir.  
+eval (expression): Evaluate arithmetic expression.  
+rm (file): Remove the given file.  
+rm -r (directory): Remove the directory dir.  
 pwd: Print the working directory.  
-377 <password>: Secret Command... Enter the correct password to access.   
-cd <directory>: Change the working directory.  
+377 (password): Secret Command... Enter the correct password to access.   
+cd (directory): Change the working directory.  
 
 As listed above, tsh2.0 supports directory traversal, removal, and display. Additionally, the eval command evaluates arithmetic expressions, echo prints whatever argument is given, and quit exits the shell program.
 
