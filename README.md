@@ -29,4 +29,6 @@ The 377 built-in command is a pretty neat password reversing challenge. The pass
 The comments throughout the main.rs file describe my steps to implementing each part of tsh2.0. The video/presentation/demonstration should further detail the functionality of tsh2.0 as well as how I implemented it.
 
 ### Running TSH2.0
-After cloning the repository onto your local machine, navigate to the main directory. Use the command **cargo run** in the command line. This should retrieve the required dependencies and run the shell. That's it!
+The first step is to get the current release of Rust via rustup. Follow the super quick installation guide at https://doc.rust-lang.org/cargo/getting-started/installation.html.
+
+After cloning the repository onto your local machine, navigate to the main directory. Use the command **cargo build** in the command line. This should retrieve the required dependencies. After, run the command **cargo run** to start the shell. That's it! 
