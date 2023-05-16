@@ -10,16 +10,16 @@ Rust has several well-defined modules which make it easy to interact with proces
 
 In addition to the standard commands, I designed my own built in commands. I also reproduced some well-known bash commands.
 
-New functionality and custom implementations:\n
-quit: Exit the shell.\n
-echo <argument>: Output the argument string.\n
-help: Display this help table.\n
-eval <expression>: Evaluate arithmetic expression.\n
-rm <file>: Remove the given file.\n
-rm -r <dir>: Remove the directory dir.\n
-pwd: Print the working directory.\n
-377 <password>: Secret Command... Enter the correct password to access.\n
-cd <directory>: Change the working directory.\n
+New functionality and custom implementations:  
+quit: Exit the shell.  
+echo <argument>: Output the argument string.  
+help: Display this help table.   
+eval <expression>: Evaluate arithmetic expression.  
+rm <file>: Remove the given file.  
+rm -r <dir>: Remove the directory dir.  
+pwd: Print the working directory.  
+377 <password>: Secret Command... Enter the correct password to access.   
+cd <directory>: Change the working directory.  
 
 As listed above, tsh2.0 supports directory traversal, removal, and display. Additionally, the eval command evaluates arithmetic expressions, echo prints whatever argument is given, and quit exits the shell program.
 
