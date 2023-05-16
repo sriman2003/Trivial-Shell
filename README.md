@@ -29,4 +29,4 @@ The 377 built-in command is a pretty neat password reversing challenge. The pass
 The comments throughout the main.rs file describe my steps to implementing each part of tsh2.0. The video/presentation/demonstration should further detail the functionality of tsh2.0 as well as how I implemented it.
 
 ### Running TSH2.0
-After cloning the repository onto your local machine, navigate to the main directory. Use the command **cargo run** in the command line. This should retrive the required dependencies and run the shell. That's it!
+After cloning the repository onto your local machine, navigate to the main directory. Use the command **cargo run** in the command line. This should retrieve the required dependencies and run the shell. That's it!
