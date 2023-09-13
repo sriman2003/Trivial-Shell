@@ -6,7 +6,7 @@ Implement a shell in Rust.
 ### Implementation
 I wanted to see how Rust interfaces with the kernel. And what better way to do so then by writing a shell which implements system calls.
 
-Rust has several well-defined modules which make it easy to interact with process management. We can use pre-defined methods to create and wait for new child processes. Thus, my main focus in this project turned to producing the built-in functionality. 
+ust has several well-defined modules which make it easy to interact with process management. We can use pre-defined methods to create and wait for new child processes. Thus, my main focus in this project turned to producing the built-in functionality. 
 
 In addition to the standard commands, I designed my own built in commands. I also reproduced some well-known bash commands.
 
